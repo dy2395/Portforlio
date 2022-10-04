@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Portforlio/static/css/main.c59cc657.css",
+    "main.js": "/Portforlio/static/js/main.a3d6a01d.js",
+    "index.html": "/Portforlio/index.html",
+    "main.c59cc657.css.map": "/Portforlio/static/css/main.c59cc657.css.map",
+    "main.a3d6a01d.js.map": "/Portforlio/static/js/main.a3d6a01d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.a3d6a01d.js"
+  ]
+}
