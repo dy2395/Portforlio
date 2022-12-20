@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Portforlio/static/css/main.c59cc657.css",
-    "main.js": "/Portforlio/static/js/main.b12c216b.js",
+    "main.css": "/Portforlio/static/css/main.2b8524e4.css",
+    "main.js": "/Portforlio/static/js/main.479bb162.js",
     "static/media/book search engine.png": "/Portforlio/static/media/book search engine.cac3070ac7b1d40a04f5.png",
     "static/media/superhero blog post home page.png": "/Portforlio/static/media/superhero blog post home page.b22d1365f798092047cf.png",
     "static/media/womans world style page.png": "/Portforlio/static/media/womans world style page.a56e0a6326927cf542c7.png",
     "index.html": "/Portforlio/index.html",
-    "main.c59cc657.css.map": "/Portforlio/static/css/main.c59cc657.css.map",
-    "main.b12c216b.js.map": "/Portforlio/static/js/main.b12c216b.js.map"
+    "main.2b8524e4.css.map": "/Portforlio/static/css/main.2b8524e4.css.map",
+    "main.479bb162.js.map": "/Portforlio/static/js/main.479bb162.js.map"
   },
   "entrypoints": [
-    "static/css/main.c59cc657.css",
-    "static/js/main.b12c216b.js"
+    "static/css/main.2b8524e4.css",
+    "static/js/main.479bb162.js"
   ]
 }
