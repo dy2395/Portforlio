@@ -58,7 +58,7 @@ export default function Application(apps) {
       <div class="card-body"> 
         <div className="card-title">
         <h4>
-          "Woman's World" E-Magzine: Style Page
+          Woman's World E-Magazine: Style Page
         </h4>
         </div>
           <p className="card-text" style={{fontSize:'16px'}}>Description: It is an e-magazine-styled website created by react app. It themed six different aspects of women's lifestyle. Denise worked on the Style page specifically.</p>
